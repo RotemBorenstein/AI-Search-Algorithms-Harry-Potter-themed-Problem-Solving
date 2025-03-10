@@ -1,7 +1,7 @@
 # AI Search Algorithms: Harry Potter-themed Problem Solving
 
 ## Overview
-This repository contains my solutions to three assignments from a university AI course, each exploring different problem-solving approaches in artificial intelligence through a Harry Potter-themed framework. The assignments progress from deterministic search to logical inference and finally to stochastic environments.
+This repository contains my solutions to three assignments from my university AI course, each exploring different problem-solving approaches in artificial intelligence through a Harry Potter-themed framework. The assignments progress from deterministic search to logical inference and finally to stochastic environments.
 
 ## Problem Domains
 
@@ -40,25 +40,6 @@ Building on part 1, this assignment extends the wizard-horcrux problem to a stoc
 - Decision-making under uncertainty
 - Value iteration
 - Markov Decision Processes
-
-## Repository Structure
-```
-├── hw1-deterministic-search/
-│   ├── README.md - Problem details and solution approach
-│   ├── ex1.py - Core implementation
-│   ├── check.py - Testing framework
-│   └── util files
-├── hw2-logical-inference/
-│   ├── README.md - Problem details and solution approach
-│   ├── ex2.py - Core implementation
-│   ├── check.py - Testing framework
-│   └── util files
-└── hw3-stochastic-task/
-    ├── README.md - Problem details and solution approach
-    ├── ex3.py - Core implementation
-    ├── check.py - Testing framework
-    └── util files
-```
 
 ## Key Learnings
 Through these assignments, I've gained experience in:
