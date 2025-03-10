@@ -5,7 +5,7 @@ This repository contains my solutions to three assignments from a university AI 
 
 ## Problem Domains
 
-### HW1: Deterministic Search
+### Part 1: Deterministic Search
 In this assignment, we control a group of wizards to find and destroy Voldemort's horcruxes without casualties. The problem involves navigating a grid world with:
 - Multiple wizard agents with limited lives
 - Death eaters moving in predefined patterns
@@ -17,7 +17,7 @@ In this assignment, we control a group of wizards to find and destroy Voldemort'
 - Problem modeling (state representation, actions, transitions)
 - Admissible heuristic design
 
-### HW2: Logical Inference
+### Part 2: Logical Inference
 This assignment follows Harry Potter as he attempts to break into Gringotts bank to find a deathly hallow. The challenge involves:
 - Logical inference to detect traps
 - Knowledge representation about the environment
@@ -29,8 +29,8 @@ This assignment follows Harry Potter as he attempts to break into Gringotts bank
 - Logical inference rules
 - Planning with incomplete information
 
-### HW3: Stochastic Task
-Building on HW1, this assignment extends the wizard-horcrux problem to a stochastic environment where:
+### Part 3: Stochastic Task
+Building on part 1, this assignment extends the wizard-horcrux problem to a stochastic environment where:
 - Death eaters move probabilistically along their paths
 - Horcruxes can randomly change locations
 - Points are awarded for destroying horcruxes and deducted for hazards
@@ -40,7 +40,6 @@ Building on HW1, this assignment extends the wizard-horcrux problem to a stochas
 - Decision-making under uncertainty
 - Value iteration
 - Markov Decision Processes
-- Expectimax search
 
 ## Repository Structure
 ```
